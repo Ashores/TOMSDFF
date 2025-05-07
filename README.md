@@ -32,7 +32,7 @@ This repository contains our end-to-end information-fusion framework based on Ma
    ```bash
    git clone https://github.com/Ashores/TOMSDFF.git
    cd TOMSDFF/
-````
+```
 
 2. Create a Python environment and install dependencies:
 
