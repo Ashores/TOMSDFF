@@ -1,6 +1,4 @@
 
-
-````markdown
 # Conveyor-Belt Operational Status Monitoring
 
 This repository contains our end-to-end information-fusion framework based on Mask R-CNN for joint detection and segmentation of conveyor-belt operating states. We integrate three novel modules—MS-DFF, TOM, and BEseg—along with a Dynamic Weighted Hybrid Loss to deliver superior performance in challenging industrial scenarios with widely varying object scales.
