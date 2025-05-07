@@ -30,7 +30,7 @@ This repository contains our end-to-end information-fusion framework based on Ma
 
 1. Clone this repository:  
    ```bash
-   git clone [https://github.com/yourusername/conveyor-belt-monitoring](https://github.com/Ashores/TOMSDFF/).git
+   git clone https://github.com/Ashores/TOMSDFF.git
    cd TOMSDFF/
 ````
 
