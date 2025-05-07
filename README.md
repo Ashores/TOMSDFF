@@ -99,16 +99,3 @@ Our approach achieves the best overall detection and segmentation performance wh
 
 ## Citation
 
-If you use this code or dataset, please cite our paper:
-
-```bibtex
-@article{your2025conveyor,
-  title={Dynamic Multi-Scale Information Fusion for Conveyor-Belt Monitoring},
-  author={Your Name and Coauthor},
-  journal={Information Fusion},
-  year={2025},
-}
-```
-
-```
-```
