@@ -49,8 +49,8 @@ This repository contains our end-to-end information-fusion framework based on Ma
 * **Belt Dataset**
 
   * Annotated in COCO format
-  * Publicly available at: `https://your-dataset-url.com`
-  * Contains images and JSON annotation files for conveyor-belt anomalies (large objects, overloads, misalignment, etc.)
+  * Publicly available at: `data/`
+  * Contains images and JSON annotation files for conveyor-belt anomalies
 
 ## Usage
 
